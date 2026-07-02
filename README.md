@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=89B4FA&center=true&vCenter=true&width=700&lines=Hi+I'm+Meirza+👋;Laravel+Developer;Web+Developer;Always+Learning."/>
+<<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.gif">>
 
 <br>
 
