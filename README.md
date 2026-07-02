@@ -1,12 +1,13 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
 </p>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
