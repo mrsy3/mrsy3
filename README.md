@@ -43,20 +43,14 @@
 
 ---
 
-## 👾 Pac-Man Contribution
+## 🎮 Player Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/pacman-contribution-graph-dark.svg">
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600">
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="700">
-</p>
-
+```text
+🎮 Level      ██████████░░ 80%
+💻 Coding     ███████████░ 90%
+☕ Coffee     ████████████ 100%
+🐞 Bug Fixing █████████░░░ 75%
+🚀 Laravel    ██████████░░ 85%
 ## 🐍 Contribution Snake
 
 <p align="center">
