@@ -51,6 +51,22 @@ Location  : Indonesia 🇮🇩
 
 ---
 
+## 🎮 Player Stats
+
+```text
+🎮 Level      ██████████░░ 80%
+💻 Coding     ███████████░ 90%
+☕ Coffee     ████████████ 100%
+🐞 Bug Fixing █████████░░░ 75%
+🚀 Laravel    ██████████░░ 85%
+```
+
+## 📫 Connect with Me
+
+- 🌐 Website
+- 📧 Email
+- 💼 LinkedIn
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=blueviolet"/>
@@ -60,13 +76,3 @@ Location  : Indonesia 🇮🇩
 *"Keep building. Keep learning."*
 
 </div>
-
-
-## 🎮 Player Stats
-
-```text
-🎮 Level      ██████████░░ 80%
-💻 Coding     ███████████░ 90%
-☕ Coffee     ████████████ 100%
-🐞 Bug Fixing █████████░░░ 75%
-🚀 Laravel    ██████████░░ 85%
