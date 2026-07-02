@@ -58,13 +58,6 @@ Location  : Indonesia 🇮🇩
 
 </div>
 
-<div align="center">
-
-### ⭐ Thanks for visiting!
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-
-</div>
 
 ## 🎮 Player Stats
 
