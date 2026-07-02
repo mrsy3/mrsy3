@@ -43,35 +43,19 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 👾 Pac-Man Contribution
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/pacman-contribution-graph-dark.svg">
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600">
 </p>
-
----
-
-## 🏆 GitHub Trophy
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
-
+<img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="700">
 </p>
-
----
 
 ## 🐍 Contribution Snake
 
